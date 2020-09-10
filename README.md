@@ -1,6 +1,6 @@
 # AED1
 
-# **Rep pra armazenar os exercícios**
+# **Repositório para armazenar os exercícios 😜**
 
 Passos para utilizar o repositório:
 
