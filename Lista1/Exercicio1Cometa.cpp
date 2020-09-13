@@ -35,7 +35,7 @@ int main()
     if (EhAnoDePassagem(anoEscolhido))
     {
         cout << anoEscolhido + tempoDePassagem << endl;
-        return EXIT_SUCCESS;
+        return 0;
     }
 
     int anoProximo1 = anoReferencia;
@@ -61,7 +61,7 @@ int main()
     if (AnoEscolhidoEhMaiorAnoReferencia(anoEscolhido))
     {
         cout << anoProximo1 + 76;
-        return EXIT_SUCCESS;
+        return 0;
     }
 
     cout << anoProximo1;
